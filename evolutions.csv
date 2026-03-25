@@ -1,0 +1,485 @@
+evolved_pokedex_number,base_pokedex_number,min_level,item_required,time_of_day,trade_required
+2,1,16,,,False
+3,2,32,,,False
+5,4,16,,,False
+6,5,36,,,False
+8,7,16,,,False
+9,8,36,,,False
+11,10,7,,,False
+12,11,10,,,False
+14,13,7,,,False
+15,14,10,,,False
+17,16,18,,,False
+18,17,36,,,False
+20,19,20,,,False
+22,21,20,,,False
+24,23,22,,,False
+25,172,,,,False
+26,25,,Thunder Stone,,False
+28,27,22,,,False
+30,29,16,,,False
+31,30,,Moon Stone,,False
+33,32,16,,,False
+34,33,,Moon Stone,,False
+35,173,,,,False
+36,35,,Moon Stone,,False
+38,37,,Fire Stone,,False
+39,174,,,,False
+40,39,,Moon Stone,,False
+42,41,22,,,False
+169,42,,,,False
+44,43,21,,,False
+45,44,,Leaf Stone,,False
+182,44,,Sun Stone,,False
+47,46,24,,,False
+49,48,31,,,False
+51,50,26,,,False
+53,52,28,,,False
+863,52,28,,,False
+55,54,33,,,False
+57,56,28,,,False
+979,57,,,,False
+59,58,,Fire Stone,,False
+61,60,25,,,False
+62,61,,Water Stone,,False
+186,61,,,,True
+64,63,16,,,False
+65,64,,,,True
+67,66,28,,,False
+68,67,,,,True
+70,69,21,,,False
+71,70,,Leaf Stone,,False
+73,72,30,,,False
+75,74,25,,,False
+76,75,,,,True
+78,77,40,,,False
+80,79,37,,,False
+199,79,,,,True
+82,81,30,,,False
+462,82,,,,False
+865,83,,,,False
+85,84,31,,,False
+87,86,34,,,False
+89,88,38,,,False
+91,90,,Water Stone,,False
+93,92,25,,,False
+94,93,,,,True
+208,95,,,,True
+97,96,26,,,False
+99,98,28,,,False
+101,100,30,,,False
+103,102,,Leaf Stone,,False
+105,104,28,,,False
+106,236,20,,,False
+107,236,20,,,False
+237,236,20,,,False
+463,108,,,,False
+110,109,35,,,False
+112,111,42,,,False
+464,112,,,,True
+113,440,,,day,False
+242,113,,,,False
+465,114,,,,False
+117,116,32,,,False
+230,117,,,,True
+119,118,33,,,False
+121,120,,Water Stone,,False
+122,439,,,,False
+866,122,42,,,False
+212,123,,,,True
+900,123,,Black Augurite,,False
+124,238,30,,,False
+125,239,30,,,False
+466,125,,,,True
+126,240,30,,,False
+467,126,,,,True
+130,129,20,,,False
+134,133,,Water Stone,,False
+135,133,,Thunder Stone,,False
+136,133,,Fire Stone,,False
+196,133,,,day,False
+197,133,,,night,False
+470,133,,,,False
+471,133,,,,False
+700,133,,,,False
+233,137,,,,True
+474,233,,,,True
+139,138,40,,,False
+141,140,40,,,False
+143,446,,,,False
+148,147,30,,,False
+149,148,55,,,False
+153,152,16,,,False
+154,153,32,,,False
+156,155,14,,,False
+157,156,36,,,False
+159,158,18,,,False
+160,159,30,,,False
+162,161,15,,,False
+164,163,20,,,False
+166,165,18,,,False
+168,167,22,,,False
+171,170,27,,,False
+176,175,,,,False
+468,176,,Shiny Stone,,False
+178,177,25,,,False
+180,179,15,,,False
+181,180,30,,,False
+183,298,,,,False
+184,183,18,,,False
+185,438,,,,False
+188,187,18,,,False
+189,188,27,,,False
+424,190,,,,False
+192,191,,Sun Stone,,False
+469,193,,,,False
+195,194,20,,,False
+980,194,20,,,False
+430,198,,Dusk Stone,,False
+429,200,,Dusk Stone,,False
+202,360,15,,,False
+981,203,,,,False
+205,204,31,,,False
+982,206,,,,False
+472,207,,,night,False
+210,209,23,,,False
+904,211,,,,False
+461,215,,,night,False
+903,215,,,day,False
+217,216,30,,,False
+901,217,,Peat Block,full-moon,False
+219,218,38,,,False
+221,220,33,,,False
+473,221,,,,False
+864,222,38,,,False
+224,223,25,,,False
+226,458,,,,False
+229,228,24,,,False
+232,231,25,,,False
+899,234,,,,False
+247,246,30,,,False
+248,247,55,,,False
+253,252,16,,,False
+254,253,36,,,False
+256,255,16,,,False
+257,256,36,,,False
+259,258,16,,,False
+260,259,36,,,False
+262,261,18,,,False
+264,263,20,,,False
+862,264,35,,night,False
+266,265,7,,,False
+267,266,10,,,False
+268,265,7,,,False
+269,268,10,,,False
+271,270,14,,,False
+272,271,,Water Stone,,False
+274,273,14,,,False
+275,274,,Leaf Stone,,False
+277,276,22,,,False
+279,278,25,,,False
+281,280,20,,,False
+282,281,30,,,False
+475,281,,Dawn Stone,,False
+284,283,22,,,False
+286,285,23,,,False
+288,287,18,,,False
+289,288,36,,,False
+291,290,20,,,False
+292,290,,,,False
+294,293,20,,,False
+295,294,40,,,False
+297,296,24,,,False
+476,299,,,,False
+301,300,,Moon Stone,,False
+305,304,32,,,False
+306,305,42,,,False
+308,307,37,,,False
+310,309,26,,,False
+315,406,,,day,False
+407,315,,Shiny Stone,,False
+317,316,26,,,False
+319,318,30,,,False
+321,320,40,,,False
+323,322,33,,,False
+326,325,32,,,False
+329,328,35,,,False
+330,329,45,,,False
+332,331,32,,,False
+334,333,35,,,False
+340,339,30,,,False
+342,341,30,,,False
+344,343,36,,,False
+346,345,40,,,False
+348,347,40,,,False
+350,349,,,,False
+354,353,37,,,False
+356,355,37,,,False
+477,356,,,,True
+358,433,,,night,False
+362,361,42,,,False
+478,361,,Dawn Stone,,False
+364,363,32,,,False
+365,364,44,,,False
+367,366,,,,True
+368,366,,,,True
+372,371,30,,,False
+373,372,50,,,False
+375,374,20,,,False
+376,375,45,,,False
+388,387,18,,,False
+389,388,32,,,False
+391,390,14,,,False
+392,391,36,,,False
+394,393,16,,,False
+395,394,36,,,False
+397,396,14,,,False
+398,397,34,,,False
+400,399,15,,,False
+402,401,10,,,False
+404,403,15,,,False
+405,404,30,,,False
+409,408,30,,,False
+411,410,30,,,False
+413,412,20,,,False
+414,412,20,,,False
+416,415,21,,,False
+419,418,26,,,False
+421,420,25,,,False
+423,422,30,,,False
+426,425,28,,,False
+428,427,,,,False
+432,431,38,,,False
+435,434,34,,,False
+437,436,33,,,False
+444,443,24,,,False
+445,444,48,,,False
+448,447,,,day,False
+450,449,34,,,False
+452,451,40,,,False
+454,453,37,,,False
+457,456,31,,,False
+460,459,40,,,False
+490,489,,,,False
+496,495,17,,,False
+497,496,36,,,False
+499,498,17,,,False
+500,499,36,,,False
+502,501,17,,,False
+503,502,36,,,False
+505,504,20,,,False
+507,506,16,,,False
+508,507,32,,,False
+510,509,20,,,False
+512,511,,Leaf Stone,,False
+514,513,,Fire Stone,,False
+516,515,,Water Stone,,False
+518,517,,Moon Stone,,False
+520,519,21,,,False
+521,520,32,,,False
+523,522,27,,,False
+525,524,25,,,False
+526,525,,,,True
+528,527,,,,False
+530,529,31,,,False
+533,532,25,,,False
+534,533,,,,True
+536,535,25,,,False
+537,536,36,,,False
+541,540,20,,,False
+542,541,,,,False
+544,543,22,,,False
+545,544,30,,,False
+547,546,,Sun Stone,,False
+549,548,,Sun Stone,,False
+902,550,,,,False
+552,551,29,,,False
+553,552,40,,,False
+555,554,35,,,False
+558,557,34,,,False
+560,559,39,,,False
+563,562,34,,,False
+867,562,,,,False
+565,564,37,,,False
+567,566,37,,,False
+569,568,36,,,False
+571,570,30,,,False
+573,572,,Shiny Stone,,False
+575,574,32,,,False
+576,575,41,,,False
+578,577,32,,,False
+579,578,41,,,False
+581,580,35,,,False
+583,582,35,,,False
+584,583,47,,,False
+586,585,34,,,False
+589,588,,,,True
+591,590,39,,,False
+593,592,40,,,False
+596,595,36,,,False
+598,597,40,,,False
+600,599,38,,,False
+601,600,49,,,False
+603,602,39,,,False
+604,603,,Thunder Stone,,False
+606,605,42,,,False
+608,607,41,,,False
+609,608,,Dusk Stone,,False
+611,610,38,,,False
+612,611,48,,,False
+614,613,37,,,False
+617,616,,,,True
+620,619,50,,,False
+623,622,43,,,False
+625,624,52,,,False
+983,625,,,,False
+628,627,54,,,False
+630,629,54,,,False
+634,633,50,,,False
+635,634,64,,,False
+637,636,59,,,False
+651,650,16,,,False
+652,651,36,,,False
+654,653,16,,,False
+655,654,36,,,False
+657,656,16,,,False
+658,657,36,,,False
+660,659,20,,,False
+662,661,17,,,False
+663,662,35,,,False
+665,664,9,,,False
+666,665,12,,,False
+668,667,35,,,False
+670,669,19,,,False
+671,670,,Shiny Stone,,False
+673,672,32,,,False
+675,674,32,,,False
+678,677,25,,,False
+680,679,35,,,False
+681,680,,Dusk Stone,,False
+683,682,,,,True
+685,684,,,,True
+687,686,30,,,False
+689,688,39,,,False
+691,690,48,,,False
+693,692,37,,,False
+695,694,,Sun Stone,,False
+697,696,39,,day,False
+699,698,39,,night,False
+705,704,40,,,False
+706,705,50,,,False
+709,708,,,,True
+711,710,,,,True
+713,712,37,,,False
+715,714,48,,,False
+723,722,17,,,False
+724,723,34,,,False
+726,725,17,,,False
+727,726,34,,,False
+729,728,17,,,False
+730,729,34,,,False
+732,731,14,,,False
+733,732,28,,,False
+735,734,20,,day,False
+737,736,20,,,False
+738,737,,,,False
+740,739,,,,False
+743,742,25,,,False
+745,744,25,,day,False
+748,747,38,,,False
+750,749,30,,,False
+752,751,22,,,False
+754,753,34,,day,False
+756,755,24,,,False
+758,757,33,,,False
+760,759,27,,,False
+762,761,18,,,False
+763,762,,,,False
+768,767,30,,,False
+770,769,42,,,False
+773,772,,,,False
+783,782,35,,,False
+784,783,45,,,False
+790,789,43,,,False
+791,790,53,,,False
+792,790,53,,,False
+804,803,,,,False
+811,810,16,,,False
+812,811,35,,,False
+814,813,16,,,False
+815,814,35,,,False
+817,816,16,,,False
+818,817,35,,,False
+820,819,24,,,False
+822,821,18,,,False
+823,822,38,,,False
+825,824,10,,,False
+826,825,30,,,False
+828,827,18,,,False
+830,829,20,,,False
+832,831,24,,,False
+834,833,22,,,False
+836,835,25,,,False
+838,837,18,,,False
+839,838,34,,,False
+841,840,,Tart Apple,,False
+842,840,,Sweet Apple,,False
+1011,840,,,,False
+1019,1011,,,,False
+844,843,36,,,False
+847,846,26,,,False
+849,848,30,,,False
+851,850,28,,,False
+853,852,,,,False
+855,854,,Cracked Pot,,False
+857,856,32,,,False
+858,857,42,,,False
+860,859,32,,,False
+861,860,42,,,False
+869,868,,,,False
+873,872,,,night,False
+879,878,34,,,False
+1018,884,,,,False
+886,885,50,,,False
+887,886,60,,,False
+892,891,,,,False
+907,906,16,,,False
+908,907,36,,,False
+910,909,16,,,False
+911,910,36,,,False
+913,912,16,,,False
+914,913,36,,,False
+916,915,18,,,False
+918,917,15,,,False
+920,919,24,,,False
+922,921,18,,,False
+923,922,,,,False
+925,924,25,,,False
+927,926,26,,,False
+929,928,25,,,False
+930,929,35,,,False
+933,932,24,,,False
+934,933,38,,,False
+936,935,,Auspicious Armor,,False
+937,935,,Malicious Armor,,False
+939,938,,Thunder Stone,,False
+941,940,25,,,False
+943,942,30,,,False
+945,944,28,,,False
+947,946,,,,False
+949,948,30,,,False
+952,951,,Fire Stone,,False
+954,953,,,,False
+956,955,35,,,False
+958,957,24,,,False
+959,958,38,,,False
+961,960,26,,,False
+964,963,38,,,False
+966,965,40,,,False
+970,969,35,,,False
+972,971,30,,night,False
+975,974,,Ice Stone,,False
+997,996,35,,,False
+998,997,54,,,False
+1000,999,,,,False
+1013,1012,,,,False

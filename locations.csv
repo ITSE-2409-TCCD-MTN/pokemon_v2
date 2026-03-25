@@ -1,0 +1,987 @@
+id,name,region_id
+67,Celadon City,1
+68,Cerulean City,1
+71,Cinnabar Island,1
+73,Digletts Cave,1
+76,Fuchsia City,1
+80,Mt Moon,1
+86,Pallet Town,1
+87,Rock Tunnel,1
+88,Kanto Route 1,1
+89,Kanto Route 10,1
+90,Kanto Route 11,1
+91,Kanto Route 12,1
+92,Kanto Route 13,1
+93,Kanto Route 14,1
+94,Kanto Route 15,1
+95,Kanto Route 16,1
+96,Kanto Route 17,1
+97,Kanto Route 18,1
+98,Kanto Sea Route 19,1
+99,Kanto Route 2,1
+100,Kanto Sea Route 20,1
+101,Kanto Sea Route 21,1
+102,Kanto Route 22,1
+103,Kanto Route 24,1
+104,Kanto Route 25,1
+105,Kanto Route 26,1
+106,Kanto Route 27,1
+107,Kanto Route 28,1
+109,Kanto Route 3,1
+120,Kanto Route 4,1
+130,Kanto Route 5,1
+131,Kanto Route 6,1
+132,Kanto Route 7,1
+133,Kanto Route 8,1
+134,Kanto Route 9,1
+136,Seafoam Islands,1
+147,Cerulean Cave,1
+151,Vermilion City,1
+152,Kanto Victory Road 1,1
+154,Viridian City,1
+155,Viridian Forest,1
+157,Kanto Route 23,1
+158,Power Plant,1
+159,Kanto Victory Road 2,1
+160,Pokemon Tower,1
+161,Pokemon Mansion,1
+162,Kanto Safari Zone,1
+231,Pewter City,1
+232,Lavender Town,1
+233,Indigo Plateau,1
+234,Saffron City,1
+491,Monean Chamber,1
+492,Liptoo Chamber,1
+493,Weepth Chamber,1
+494,Dilford Chamber,1
+495,Scufib Chamber,1
+496,Rixy Chamber,1
+497,Viapos Chamber,1
+498,Ss Anne,1
+500,Mt Ember,1
+501,Berry Forest,1
+502,Icefall Cave,1
+503,Pattern Bush,1
+504,Lost Cave,1
+505,Kindle Road,1
+506,Treasure Beach,1
+507,Cape Brink,1
+508,Bond Bridge,1
+509,Three Isle Port,1
+510,Resort Gorgeous,1
+511,Water Labyrinth,1
+512,Five Isle Meadow,1
+513,Memorial Pillar,1
+514,Outcast Island,1
+515,Green Path,1
+516,Water Path,1
+517,Ruin Valley,1
+518,Trainer Tower,1
+519,Canyon Entrance,1
+520,Sevault Canyon,1
+521,Tanoby Ruins,1
+526,One Island,1
+527,Four Island,1
+528,Five Island,1
+529,Kanto Altering Cave,1
+799,Roaming Kanto,1
+805,Two Island,1
+806,Three Island,1
+807,Three Isle Path,1
+808,Six Island,1
+809,Seven Island,1
+810,Birth Island,1
+811,Navel Rock,1
+1090,Kanto Pokemart,1
+1091,Kanto Pokecenter,1
+65,Blackthorn City,2
+66,Burned Tower,2
+69,Cherrygrove City,2
+70,Cianwood City,2
+72,Dark Cave,2
+74,Dragons Den,2
+75,Ecruteak City,2
+77,Ice Path,2
+78,Ilex Forest,2
+79,Lake Of Rage,2
+81,Mt Mortar,2
+82,Mt Silver,2
+83,National Park,2
+84,New Bark Town,2
+85,Olivine City,2
+108,Johto Route 29,2
+110,Johto Route 30,2
+111,Johto Route 31,2
+112,Johto Route 32,2
+113,Johto Route 33,2
+114,Johto Route 34,2
+115,Johto Route 35,2
+116,Johto Route 36,2
+117,Johto Route 37,2
+118,Johto Route 38,2
+119,Johto Route 39,2
+121,Johto Sea Route 40,2
+122,Johto Sea Route 41,2
+123,Johto Route 42,2
+124,Johto Route 43,2
+125,Johto Route 44,2
+126,Johto Route 45,2
+127,Johto Route 46,2
+128,Johto Route 47,2
+129,Johto Route 48,2
+135,Ruins Of Alph,2
+137,Slowpoke Well,2
+138,Sprout Tower,2
+139,Bell Tower,2
+140,Tohjo Falls,2
+141,Union Cave,2
+148,Unknown All Poliwag,2
+149,Unknown All Rattata,2
+150,Unknown All Bugs,2
+153,Violet City,2
+156,Whirl Islands,2
+228,Azalea Town,2
+229,Goldenrod City,2
+230,Mahogany Town,2
+236,Johto Lighthouse,2
+237,Team Rocket Hq,2
+238,Goldenrod Tunnel,2
+239,Mt Silver Cave,2
+241,Pokeathlon Dome,2
+242,Ss Aqua,2
+243,Safari Zone Gate,2
+244,Cliff Cave,2
+245,Frontier Access,2
+246,Bellchime Trail,2
+247,Sinjoh Ruins,2
+248,Embedded Tower,2
+249,Pokewalker,2
+250,Cliff Edge Gate,2
+252,Radio Tower,2
+800,Roaming Johto,2
+814,Johto Safari Zone,2
+1093,Johto Pokemart,2
+429,Petalburg City,3
+430,Slateport City,3
+431,Lilycove City,3
+432,Mossdeep City,3
+433,Sootopolis City,3
+434,Ever Grande City,3
+435,Meteor Falls,3
+436,Rusturf Tunnel,3
+437,Granite Cave,3
+438,Petalburg Woods,3
+439,Jagged Pass,3
+440,Fiery Path,3
+441,Mt Pyre,3
+442,Seafloor Cavern,3
+443,Cave Of Origin,3
+444,Hoenn Victory Road,3
+445,Shoal Cave,3
+446,New Mauville,3
+447,Abandoned Ship,3
+448,Sky Pillar,3
+449,Hoenn Route 101,3
+450,Hoenn Route 102,3
+451,Hoenn Route 103,3
+452,Hoenn Route 104,3
+453,Hoenn Route 105,3
+454,Hoenn Route 106,3
+455,Hoenn Route 107,3
+456,Hoenn Route 108,3
+457,Hoenn Route 109,3
+458,Hoenn Route 110,3
+459,Hoenn Route 111,3
+460,Hoenn Route 112,3
+461,Hoenn Route 113,3
+462,Hoenn Route 114,3
+463,Hoenn Route 115,3
+464,Hoenn Route 116,3
+465,Hoenn Route 117,3
+466,Hoenn Route 118,3
+467,Hoenn Route 119,3
+468,Hoenn Route 120,3
+469,Hoenn Route 121,3
+470,Hoenn Route 122,3
+471,Hoenn Route 123,3
+472,Hoenn Route 124,3
+473,Hoenn Route 125,3
+474,Hoenn Route 126,3
+475,Hoenn Route 127,3
+476,Hoenn Route 128,3
+477,Hoenn Route 129,3
+478,Hoenn Route 130,3
+479,Hoenn Route 131,3
+480,Hoenn Route 132,3
+481,Hoenn Route 133,3
+482,Hoenn Route 134,3
+483,Hoenn Safari Zone,3
+484,Dewford Town,3
+485,Pacifidlog Town,3
+486,Magma Hideout,3
+487,Mirage Tower,3
+488,Desert Underpass,3
+489,Artisan Cave,3
+490,Hoenn Altering Cave,3
+567,Littleroot Town,3
+568,Oldale Town,3
+569,Lavaridge Town,3
+570,Fallarbor Town,3
+571,Verdanturf Town,3
+572,Mauville City,3
+573,Rustboro City,3
+574,Fortree City,3
+575,Underwater,3
+576,Mt Chimney,3
+577,Mirage Spot Island,3
+578,Southern Island,3
+579,Sealed Chamber,3
+580,Scorched Slab,3
+581,Island Cave,3
+582,Desert Ruins,3
+583,Ancient Tomb,3
+584,Inside Of Truck,3
+585,Secret Base,3
+586,Hoenn Battle Tower,3
+691,Hoenn Pokemon League,3
+692,Team Aqua Hideout,3
+693,Sea Mauville,3
+694,Team Magma Hideout,3
+695,Battle Resort,3
+696,Ss Tidal,3
+697,Mirage Spot Forest,3
+698,Mirage Spot Cave,3
+699,Mirage Spot Mountain,3
+700,Trackless Forest,3
+701,Pathless Plain,3
+702,Nameless Cavern,3
+703,Fabled Cave,3
+704,Gnarled Den,3
+705,Crescent Isle,3
+706,Secret Islet,3
+707,Soaring In The Sky,3
+708,Secret Shore,3
+709,Secret Meadow,3
+801,Roaming Hoenn,3
+803,Terra Cave,3
+804,Marine Cave,3
+812,Faraway Island,3
+813,Hoenn Battle Frontier,3
+1055,Mossdeep Space Center,3
+1088,Hoenn Pokemart,3
+1089,Hoenn Pokecenter,3
+1094,Mirage Island,3
+1,Canalave City,4
+2,Eterna City,4
+3,Pastoria City,4
+4,Sunyshore City,4
+5,Sinnoh Pokemon League,4
+6,Oreburgh Mine,4
+7,Valley Windworks,4
+8,Eterna Forest,4
+9,Fuego Ironworks,4
+10,Mt Coronet,4
+11,Great Marsh,4
+12,Solaceon Ruins,4
+13,Sinnoh Victory Road,4
+14,Ravaged Path,4
+15,Oreburgh Gate,4
+16,Stark Mountain,4
+17,Spring Path,4
+18,Turnback Cave,4
+19,Snowpoint Temple,4
+20,Wayward Cave,4
+22,Ruin Maniac Cave,4
+23,Trophy Garden,4
+24,Iron Island,4
+25,Old Chateau,4
+26,Lake Verity,4
+27,Lake Valor,4
+28,Lake Acuity,4
+29,Valor Lakefront,4
+30,Acuity Lakefront,4
+31,Sinnoh Route 201,4
+32,Sinnoh Route 202,4
+33,Sinnoh Route 203,4
+34,Sinnoh Route 204,4
+35,Sinnoh Route 205,4
+36,Sinnoh Route 206,4
+37,Sinnoh Route 207,4
+38,Sinnoh Route 208,4
+39,Sinnoh Route 209,4
+40,Lost Tower,4
+41,Sinnoh Route 210,4
+42,Sinnoh Route 211,4
+43,Sinnoh Route 212,4
+44,Sinnoh Route 213,4
+45,Sinnoh Route 214,4
+46,Sinnoh Route 215,4
+47,Sinnoh Route 216,4
+48,Sinnoh Route 217,4
+49,Sinnoh Route 218,4
+50,Sinnoh Route 219,4
+51,Sinnoh Route 221,4
+52,Sinnoh Route 222,4
+53,Sinnoh Route 224,4
+54,Sinnoh Route 225,4
+55,Sinnoh Route 227,4
+56,Sinnoh Route 228,4
+57,Sinnoh Route 229,4
+58,Twinleaf Town,4
+59,Celestic Town,4
+60,Resort Area,4
+61,Sinnoh Sea Route 220,4
+62,Sinnoh Sea Route 223,4
+63,Sinnoh Sea Route 226,4
+64,Sinnoh Sea Route 230,4
+163,Sandgem Town,4
+164,Floaroma Town,4
+165,Solaceon Town,4
+167,Jubilife City,4
+168,Oreburgh City,4
+169,Hearthome City,4
+170,Veilstone City,4
+171,Snowpoint City,4
+172,Spear Pillar,4
+173,Pal Park,4
+174,Amity Square,4
+175,Floaroma Meadow,4
+177,Fullmoon Island,4
+178,Sendoff Spring,4
+179,Flower Paradise,4
+180,Maniac Tunnel,4
+181,Galactic Hq,4
+182,Verity Lakefront,4
+183,Newmoon Island,4
+184,Sinnoh Battle Tower,4
+185,Fight Area,4
+186,Survival Area,4
+187,Seabreak Path,4
+188,Sinnoh Hall Of Origin 1,4
+189,Sinnoh Hall Of Origin 2,4
+190,Verity Cavern,4
+191,Valor Cavern,4
+192,Acuity Cavern,4
+193,Jubilife Tv,4
+194,Poketch Co,4
+195,Gts,4
+196,Trainers School,4
+197,Mining Museum,4
+198,Sinnoh Flower Shop,4
+199,Sinnoh Cycle Shop,4
+200,Contest Hall,4
+201,Poffin House,4
+202,Sinnoh Foreign Building,4
+203,Pokemon Day Care,4
+204,Veilstone Store,4
+205,Sinnoh Game Corner,4
+206,Canalave Library,4
+207,Vista Lighthouse,4
+208,Sunyshore Market,4
+209,Footstep House,4
+210,Sinnoh Cafe,4
+211,Grand Lake,4
+212,Sinnoh Restaurant,4
+213,Battle Park,4
+214,Battle Frontier,4
+215,Battle Factory,4
+216,Battle Castle,4
+217,Battle Arcade,4
+218,Battle Hall,4
+219,Distortion World,4
+220,Sinnoh Global Terminal,4
+221,Sinnoh Villa,4
+222,Battleground,4
+223,Rotoms Room,4
+224,Tg Eterna Bldg,4
+225,Iron Ruins,4
+226,Iceberg Ruins,4
+227,Rock Peak Ruins,4
+802,Roaming Sinnoh,4
+1092,Sinnoh Pokemart,4
+344,Unova Mystery Zone,5
+345,Unova Faraway Place,5
+346,Nuvema Town,5
+347,Accumula Town,5
+348,Striaton City,5
+349,Nacrene City,5
+350,Castelia City,5
+351,Nimbasa City,5
+352,Driftveil City,5
+353,Mistralton City,5
+354,Icirrus City,5
+355,Opelucid City,5
+356,Unova Route 1,5
+357,Unova Route 2,5
+358,Unova Route 3,5
+359,Unova Route 4,5
+360,Unova Route 5,5
+361,Unova Route 6,5
+362,Unova Route 7,5
+363,Unova Route 8,5
+364,Unova Route 9,5
+365,Unova Route 10,5
+366,Unova Route 11,5
+367,Unova Route 12,5
+368,Unova Route 13,5
+369,Unova Route 14,5
+370,Unova Route 15,5
+371,Unova Route 16,5
+372,Unova Route 17,5
+373,Unova Route 18,5
+374,Dreamyard,5
+375,Pinwheel Forest,5
+376,Desert Resort,5
+377,Relic Castle,5
+378,Cold Storage,5
+379,Chargestone Cave,5
+380,Twist Mountain,5
+381,Dragonspiral Tower,5
+382,Unova Victory Road,5
+383,Lacunosa Town,5
+384,Undella Town,5
+385,Anville Town,5
+386,Unova Pokemon League,5
+387,Ns Castle,5
+388,Royal Unova,5
+389,Gear Station,5
+390,Battle Subway,5
+391,Musical Theater,5
+392,Black City,5
+393,White Forest,5
+394,Unity Tower,5
+395,Wellspring Cave,5
+396,Mistralton Cave,5
+397,Rumination Field,5
+398,Celestial Tower,5
+399,Moor Of Icirrus,5
+400,Unova Shopping Mall,5
+401,Challengers Cave,5
+402,Poke Transfer Lab,5
+403,Giant Chasm,5
+404,Liberty Garden,5
+405,P2 Laboratory,5
+406,Skyarrow Bridge,5
+407,Driftveil Drawbridge,5
+408,Tubeline Bridge,5
+409,Village Bridge,5
+410,Marvelous Bridge,5
+411,Entralink,5
+412,Abundant Shrine,5
+413,Undella Bay,5
+414,Lostlorn Forest,5
+415,Trial Chamber,5
+416,Guidance Chamber,5
+417,Entree Forest,5
+418,Accumula Gate,5
+419,Undella Gate,5
+420,Nacrene Gate,5
+421,Castelia Gate,5
+422,Nimbasa Gate,5
+423,Opelucid Gate,5
+424,Black Gate,5
+425,White Gate,5
+426,Bridge Gate,5
+427,Route Gate,5
+428,Abyssal Ruins,5
+531,Aspertia City,5
+532,Virbank City,5
+533,Humilau City,5
+534,Pokestar Studios,5
+535,Join Avenue,5
+536,Floccesy Town,5
+537,Lentimas Town,5
+538,Unova Route 19,5
+539,Unova Route 20,5
+540,Unova Route 21,5
+541,Unova Route 22,5
+542,Unova Route 23,5
+543,Castelia Sewers,5
+544,Floccesy Ranch,5
+545,Virbank Complex,5
+546,Reversal Mountain,5
+547,Strange House,5
+548,Unova Victory Road 2,5
+549,Plasma Frigate,5
+550,Relic Passage,5
+551,Clay Tunnel,5
+552,White Treehollow,5
+553,Black Tower,5
+554,Seaside Cave,5
+555,Cave Of Being,5
+556,Hidden Grotto,5
+557,Marine Tube,5
+558,Virbank Gate,5
+559,Aspertia Gate,5
+560,Nature Sanctuary,5
+561,Medal Secretariat,5
+562,Underground Ruins,5
+563,Rocky Mountain Room,5
+564,Glacier Room,5
+565,Iron Room,5
+566,Pledge Grove,5
+1054,Roaming Unova,5
+587,Vaniville Town,6
+588,Kalos Route 1,6
+589,Vaniville Pathway,6
+590,Aquacorde Town,6
+591,Kalos Route 2,6
+592,Avance Trail,6
+593,Santalune Forest,6
+594,Kalos Route 3,6
+595,Ouvert Way,6
+596,Santalune City,6
+597,Kalos Route 4,6
+598,Parterre Way,6
+599,Lumiose City,6
+600,Prism Tower,6
+601,Lysandre Labs,6
+602,Kalos Route 5,6
+603,Versant Road,6
+604,Camphrier Town,6
+605,Shabboneau Castle,6
+606,Kalos Route 6,6
+607,Palais Lane,6
+608,Parfum Palace,6
+609,Kalos Route 7,6
+610,Riviere Walk,6
+611,Cyllage City,6
+612,Kalos Route 8,6
+613,Muraille Coast,6
+614,Ambrette Town,6
+615,Kalos Route 9,6
+616,Spikes Passage,6
+617,Battle Chateau,6
+618,Kalos Route 10,6
+619,Menhir Trail,6
+620,Geosenge Town,6
+621,Kalos Route 11,6
+622,Miroir Way,6
+623,Reflection Cave,6
+624,Shalour City,6
+625,Tower Of Mastery,6
+626,Kalos Route 12,6
+627,Fourrage Road,6
+628,Coumarine City,6
+629,Kalos Route 13,6
+630,Lumiose Badlands,6
+631,Kalos Route 14,6
+632,Laverre Nature Trail,6
+633,Laverre City,6
+634,Poke Ball Factory,6
+635,Kalos Route 15,6
+636,Brun Way,6
+637,Dendemille Town,6
+638,Kalos Route 16,6
+639,Melancolie Path,6
+640,Frost Cavern,6
+641,Kalos Route 17,6
+642,Mamoswine Road,6
+643,Anistar City,6
+644,Kalos Route 18,6
+645,Vallee Etroite Way,6
+646,Couriway Town,6
+647,Kalos Route 19,6
+648,Grande Vallee Way,6
+649,Snowbelle City,6
+650,Kalos Route 20,6
+651,Winding Woods,6
+652,Pokemon Village,6
+653,Kalos Route 21,6
+654,Derniere Way,6
+655,Kalos Route 22,6
+656,Detourner Way,6
+657,Kalos Victory Road,6
+658,Kalos Pokemon League,6
+659,Kiloude City,6
+660,Battle Maison,6
+661,Azure Bay,6
+662,Dendemille Gate,6
+663,Couriway Gate,6
+664,Ambrette Gate,6
+665,Lumiose Gate,6
+666,Shalour Gate,6
+667,Coumarine Gate,6
+668,Laverre Gate,6
+669,Anistar Gate,6
+670,Snowbelle Gate,6
+671,Glittering Cave,6
+672,Connecting Cave,6
+673,Zubat Roost,6
+674,Kalos Power Plant,6
+675,Team Flare Secret Hq,6
+676,Terminus Cave,6
+677,Lost Hotel,6
+678,Chamber Of Emptiness,6
+679,Sea Spirits Den,6
+680,Friend Safari,6
+681,Blazing Chamber,6
+682,Flood Chamber,6
+683,Ironworks Chamber,6
+684,Dragonmark Chamber,6
+685,Radiant Chamber,6
+686,Pokemon League Gate,6
+687,Lumiose Station,6
+688,Kiloude Station,6
+689,Ambrette Aquarium,6
+690,Unknown Dungeon,6
+1056,Roaming Kalos,6
+710,Alola Route 1  Hauoli Outskirts,7
+711,Alola Route 1,7
+712,Alola Route 3,7
+713,Alola Route 2,7
+714,Kalae Bay,7
+715,Melemele Sea,7
+716,Hauoli City  Beachfront,7
+717,Hauoli City  Shopping District,7
+718,Hauoli City  Marina,7
+719,Iki Town,7
+720,Mahalo Trail,7
+721,Mahalo Trail  Plank Bridge,7
+722,Ruins Of Conflict,7
+723,Ten Carat Hill,7
+724,Ten Carat Hill  Farthest Hollow,7
+725,Hauoli Cemetery,7
+726,Melemele Meadow,7
+727,Seaward Cave,7
+728,Berry Fields,7
+729,Verdant Cavern  Trial Site,7
+730,Verdant Cavern  Totems Den,7
+731,Alola Route 4,7
+732,Alola Route 5,7
+733,Alola Route 6,7
+734,Alola Route 7,7
+735,Alola Route 8,7
+736,Alola Route 9,7
+737,Hano Grand Resort,7
+738,Hano Beach,7
+739,Akala Meadow,7
+740,Paniola Town,7
+741,Heahea City,7
+742,Konikoni City,7
+743,Royal Avenue,7
+744,Memorial Hill,7
+745,Paniola Ranch,7
+746,Wela Volcano Park,7
+747,Wela Volcano Park  Totems Den,7
+748,Brooklet Hill,7
+749,Brooklet Hill  Totems Den,7
+750,Lush Jungle,7
+751,Ruins Of Life,7
+752,Akala Outskirts,7
+753,Digletts Tunnel,7
+754,Battle Royal Dome,7
+755,Alola Route 10,7
+756,Alola Route 11,7
+757,Secluded Shore,7
+758,Alola Route 13,7
+759,Tapu Village,7
+760,Alola Route 15,7
+761,Alola Route 16,7
+762,Alola Route 17,7
+763,Alola Route 12,7
+764,Haina Desert,7
+765,Alola Route 14,7
+766,Ulaula Meadow,7
+767,Po Town,7
+768,Malie City Proper,7
+769,Malie Garden,7
+770,Mount Hokulani,7
+771,Blush Mountain,7
+772,Ruins Of Abundance,7
+773,Lake Of The Sunne,7
+774,Lake Of The Moone,7
+775,Mount Lanakila,7
+776,Shady House,7
+777,Thrifty Megamart  Abandoned Site,7
+778,Hokulani Observatory,7
+779,Alola Pokemon League,7
+780,Poni Meadow,7
+781,Poni Wilds,7
+782,Ancient Poni Path,7
+783,Poni Breaker Coast,7
+784,Poni Grove,7
+785,Poni Plains,7
+786,Poni Coast,7
+787,Poni Gauntlet,7
+788,Seafolk Village,7
+789,Vast Poni Canyon,7
+790,Altar Of The Sunne,7
+791,Altar Of The Moone,7
+792,Ruins Of Hope,7
+793,Resolution Cave,7
+794,Exeggutor Island,7
+795,Battle Tree,7
+796,Aether Paradise,7
+797,Ultra Space,7
+798,Malie City  Outer Cape,7
+1042,Hauoli City,7
+1043,Verdant Cavern,7
+1044,Thrifty Megamart,7
+1045,Malie City,7
+1046,Dividing Peak Tunnel,7
+1047,Heahea Beach,7
+1048,Sandy Cave,7
+1049,Ulaula Beach,7
+1050,Ultra Megalopolis,7
+1051,Ultra Space Wilds,7
+1052,Poke Pelago,7
+1053,Team Rockets Castle,7
+868,Galar Route 1,8
+869,Galar Route 2,8
+870,Galar Route 3,8
+871,Galar Route 4,8
+872,Galar Route 5,8
+873,Galar Route 6,8
+874,Galar Route 7,8
+875,Galar Route 8,8
+876,Galar Route 9,8
+877,Galar Route 10,8
+878,Axews Eye,8
+879,Ballimere Lake,8
+880,Ballonlea,8
+881,Battle Tower,8
+882,Brawlers Cave,8
+883,Bridge Field,8
+884,Challenge Beach,8
+885,Challenge Road,8
+886,Circhester,8
+887,Courageous Cavern,8
+888,Crown Shrine,8
+889,Dappled Grove,8
+890,Dusty Bowl,8
+891,Dyna Tree Hill,8
+892,East Lake Axewell,8
+893,Fields Of Honor,8
+894,Forest Of Focus,8
+895,Freezington,8
+896,Frigid Sea,8
+897,Frostpoint Field,8
+898,Galar Mine,8
+899,Galar Mine No 2,8
+900,Giants Bed,8
+901,Giants Foot,8
+902,Giants Mirror,8
+903,Giants Seat,8
+904,Glimwood Tangle,8
+905,Hammerlocke,8
+906,Hammerlocke Hills,8
+907,Honeycalm Island,8
+908,Honeycalm Sea,8
+909,Hulbury,8
+910,Galar Iceberg Ruins,8
+911,Insular Sea,8
+912,Galar Iron Ruins,8
+913,Lake Of Outrage,8
+914,Lakeside Cave,8
+915,Loop Lagoon,8
+916,Master Dojo,8
+917,Max Lair,8
+918,Motostoke,8
+919,Motostoke Outskirts,8
+920,Motostoke Riverbank,8
+921,North Lake Miloch,8
+922,Old Cemetery,8
+923,Path To The Peak,8
+924,Postwick,8
+925,Potbottom Desert,8
+926,Roaring Sea Caves,8
+927,Galar Rock Peak Ruins,8
+928,Rolling Fields,8
+929,Slippery Slope,8
+930,Slumbering Weald,8
+931,Snowslide Slope,8
+932,Soothing Wetlands,8
+933,South Lake Miloch,8
+934,Spikemuth,8
+935,Split Decision Ruins,8
+936,Steamdrift Way,8
+937,Stepping Stone Sea,8
+938,Stony Wilderness,8
+939,Stow On Side,8
+940,Three Point Pass,8
+941,Tower Of Darkness,8
+942,Tower Of Waters,8
+943,Training Lowlands,8
+944,Tunnel To The Top,8
+945,Turffield,8
+946,Warm Up Tunnel,8
+947,Watchtower Ruins,8
+948,Wedgehurst,8
+949,West Lake Axewell,8
+950,Workout Sea,8
+951,Wyndon,8
+1041,Giants Cap,8
+952,Aipom Hill,9
+953,Ancient Quarry,9
+954,Arenas Approach,9
+955,Aspiration Hill,9
+956,Avalanche Slopes,9
+957,Avaluggs Legacy,9
+958,Bathers Lagoon,9
+959,Bolderoll Ravine,9
+960,Bolderoll Slope,9
+961,Bonechill Wastes,9
+962,Brava Arena,9
+963,Castaway Shore,9
+964,Celestica Ruins,9
+965,Celestica Trail,9
+966,Clamberclaw Cliffs,9
+967,Cloudcap Pass,9
+968,Cloudpool Ridge,9
+969,Coastlands Camp,9
+970,Cottonsedge Prairie,9
+971,Crossing Slope,9
+972,Deadwood Haunt,9
+973,Deertrack Heights,9
+974,Deertrack Path,9
+975,Diamond Heath,9
+976,Diamond Settlement,9
+977,Droning Meadow,9
+978,Fabled Spring,9
+979,Firespit Island,9
+980,Floaro Gardens,9
+981,Gapejaw Bog,9
+982,Ginkgo Landing,9
+983,Glacier Terrace,9
+984,Golden Lowlands,9
+985,Grandtree Arena,9
+986,Grueling Grove,9
+987,Hearts Crag,9
+988,Heavenward Lookout,9
+989,Heights Camp,9
+990,Hideaway Bay,9
+991,Holm Of Trials,9
+992,Horseshoe Plains,9
+993,Ice Column Chamber,9
+994,Icebound Falls,9
+995,Icepeak Arena,9
+996,Icepeak Cavern,9
+997,Islespy Shore,9
+998,Jubilife Village,9
+999,Hisui Lake Acuity,9
+1000,Hisui Lake Valor,9
+1001,Hisui Lake Verity,9
+1002,Lonely Spring,9
+1003,Lunkers Lair,9
+1004,Molten Arena,9
+1005,Moonview Arena,9
+1006,Natures Pantry,9
+1007,Obsidian Falls,9
+1008,Oreburrow Tunnel,9
+1009,Pearl Settlement,9
+1010,Primeval Grotto,9
+1011,Ramanas Island,9
+1012,Sacred Plaza,9
+1013,Sands Reach,9
+1014,Sandgem Flats,9
+1015,Scarlet Bog,9
+1016,Seagrass Haven,9
+1017,Seaside Hollow,9
+1018,Shrouded Ruins,9
+1019,Sludge Mound,9
+1020,Snowfall Hot Spring,9
+1021,Hisui Snowpoint Temple,9
+1022,Hisui Solaceon Ruins,9
+1023,Sonorous Path,9
+1024,Space Time Distortion,9
+1025,Hisui Spring Path,9
+1026,Stonetooth Rows,9
+1027,Temple Of Sinnoh,9
+1028,The Heartwood,9
+1029,Tidewater Dam,9
+1030,Tombolo Walk,9
+1031,Tranquility Cove,9
+1032,Hisui Turnback Cave,9
+1033,Ursas Ring,9
+1034,Veilstone Cape,9
+1035,Hisui Wayward Cave,9
+1036,Wayward Wood,9
+1037,Whiteout Valley,9
+1038,Windbreak Stand,9
+1039,Windswept Run,9
+1040,Worn Bridge,9
+815,Cabo Poco,10
+816,Los Platos,10
+817,Mesagoza,10
+818,Cortondo,10
+819,Alfornada,10
+820,Pokemon League,10
+821,Artazon,10
+822,Levincia,10
+823,Zapapico,10
+824,Cascarrafa,10
+825,Porto Marinada,10
+826,Medali,10
+827,Montenevera,10
+828,Paldea South Province Area One,10
+829,Paldea South Province Area Two,10
+830,Paldea South Province Area Three,10
+831,Paldea South Province Area Four,10
+832,Paldea South Province Area Five,10
+833,Paldea South Province Area Six,10
+834,South Paldean Sea,10
+835,Poco Path,10
+836,Inlet Grotto,10
+837,Naranja Academy,10
+838,Alfornada Cavern,10
+839,Grasswither Shrine,10
+840,Paldea East Province Area One,10
+841,Paldea East Province Area Two,10
+842,Paldea East Province Area Three,10
+843,East Paldean Sea,10
+844,Tagtree Thicket,10
+845,Schedar Squads Base,10
+846,Navi Squads Base,10
+847,Paldea West Province Area One,10
+848,Paldea West Province Area Two,10
+849,Paldea West Province Area Three,10
+850,Asado Desert,10
+851,West Paldean Sea,10
+852,Segin Squads Base,10
+853,Icerend Shrine,10
+854,Paldea North Province Area One,10
+855,Paldea North Province Area Two,10
+856,Paldea North Province Area Three,10
+857,Casseroya Lake,10
+858,Dalizapa Passage,10
+859,Glaseado Mountain,10
+860,Socarrat Trail,10
+861,Groundblight Shrine,10
+862,Firescourge Shrine,10
+863,North Paldean Sea,10
+864,Ruchbah Squads Base,10
+865,Caph Squads Base,10
+866,Area Zero,10
+867,Zero Lab,10
+1057,Uva Academy,10
+1058,Apple Hills,10
+1059,Chilling Waterhead,10
+1060,Crystal Pool,10
+1061,Dreaded Den,10
+1062,Fellhorn Gorge,10
+1063,Infernal Pass,10
+1064,Kitakami Hall,10
+1065,Kitakami Road,10
+1066,Kitakami Wilds,10
+1067,Loyalty Plaza,10
+1068,Mossfell Confluence,10
+1069,Mossui Town,10
+1070,Oni Mountain,10
+1071,Onis Maw,10
+1072,Paradise Barrens,10
+1073,Revelers Road,10
+1074,Timeless Woods,10
+1075,Wistful Fields,10
+1076,Canyon Biome,10
+1077,Canyon Plaza,10
+1078,Central Plaza,10
+1079,Chargestone Cavern,10
+1080,Coastal Biome,10
+1081,Coastal Plaza,10
+1082,League Club Room,10
+1083,Polar Biome,10
+1084,Polar Plaza,10
+1085,Savanna Biome,10
+1086,Savanna Plaza,10
+1087,Torchlit Labyrinth,10
